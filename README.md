@@ -1,4 +1,6 @@
 # Tareas
-Primer repositorio para el TDS
-Primer cambio al repositorio
-// En la tarea de la unidad 2, utilice la estructura de switch case porque se me hizo más ordena, reduce la codificación repetitiva de multiples if y así lograr un ejecucíon más rapida.
+Unidad 3
+1.Introducción al controlador de versiones.
+2.Git.
+3.Gitgub.
+4.Instrucciones basicas git.
