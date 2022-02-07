@@ -1,6 +1,7 @@
 # Tareas
-Unidad 2 
-1.Conceptos básicos para iniciar a programar.
-2.Tipos de datos y operadores.
-3.Estructuras de control condicionales.
-
+Unidad 1
+1.Sistema binario.
+2.Lógica.
+3.Algoritmo.
+4.Programación.
+5.Editores de texto y entornos de desarrollo.
