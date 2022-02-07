@@ -1,6 +1,6 @@
 # Tareas
-Unidad 3
-1.Introducción al controlador de versiones.
-2.Git.
-3.Gitgub.
-4.Instrucciones basicas git.
+Unidad 2 
+1.Conceptos básicos para iniciar a programar.
+2.Tipos de datos y operadores.
+3.Estructuras de control condicionales.
+
